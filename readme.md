@@ -12,45 +12,12 @@
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gikuankuan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gikuankuan&layout=donut&theme=radical&hide_border=true&langs_count=8"/>
-
-</div>
-
----
-
-## 🥧 Language Distribution
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gikuankuan&layout=pie&theme=radical&hide_border=true&langs_count=10" />
-
-</div>
-
----
-
 ## 🔥 Contribution Streak
 
 <div align="center">
 
 <!-- 使用 demolab.com（最新穩定版） -->
 <img src="https://streak-stats.demolab.com/?user=gikuankuan&theme=radical&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=gikuankuan&theme=radical&no-frame=true&row=1&column=6" />
 
 </div>
 
