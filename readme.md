@@ -25,11 +25,11 @@
 
 ---
 
-## 🥧 Language Distribution (Donut Chart)
+## 🥧 Language Distribution
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gikuankuan&layout=donut-vertical&theme=radical&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gikuankuan&layout=pie&theme=radical&hide_border=true&langs_count=10" />
 
 </div>
 
@@ -39,7 +39,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gikuankuan&theme=radical&hide_border=true" />
+<!-- 使用 demolab.com（最新穩定版） -->
+<img src="https://streak-stats.demolab.com/?user=gikuankuan&theme=radical&hide_border=true" />
 
 </div>
 
@@ -59,7 +60,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gikuankuan&theme=redical&hide_border=true&area=true" />
+<!-- 使用最新網址 -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gikuankuan&theme=react-dark&hide_border=true&area=true" />
 
 </div>
 
